@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @C-W-Z
-- 👀 I’m interested in programming, drawing, and writing novels
-- 🌱 I’m currently learning C#
+# Self Introduction
+- 👋 Hi, I’m **@C-W-Z**, a programming novice
+## Interests
+- programming
+- drawing
+- writing novels
+## Programming Languages
+- Have learned `C++` for a year
+- Have learned `python` for a month
+- 🌱 I’m currently learning `C#`
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
