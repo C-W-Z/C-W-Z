@@ -1,5 +1,5 @@
 # Self Introduction
-- Hi, I’m **@C-W-Z**, a programming novice
+- Hi, I’m **@C-W-Z**
 - I'm majoring CSIE in NTU
 ## Interests
 - programming
@@ -7,10 +7,10 @@
 - reading & writing novels
 - playing & making games
 ## Programming Languages
-- 🌱 I’m currently learning `C` for `1.5` years
-- `C++` for `1` year
-- `C#` for `1.5` year
-- `python` for `2` month
+- 🌱 I’m currently learning `C` for `2` years
+- `C++` for `2` year
+- `C#` for `2` year
+- `python` for `3` month
 - `HTML/CSS/JavaScript` for `6` months
 - `TypeScript` for `1` month
 
