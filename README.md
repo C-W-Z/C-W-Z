@@ -1,6 +1,7 @@
 # Self Introduction
-- Hi, I’m **@C-W-Z**
+- Hi, I’m **C-W-Z**
 - I'm majoring CSIE in NTU
+- Here is my personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
 ## Interests
 - programming
 - drawing
