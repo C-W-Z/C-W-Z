@@ -1,12 +1,20 @@
+<div align="center">
+
 # Self Introduction
-- student in CSIE of NTU
-- personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
+
+Student in CSIE of NTU
+<br/>
+Personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
 
 # Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-W-Z&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C-W-Z&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C-W-Z&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=C-W-Z&theme=nord_bright&)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=C-W-Z&theme=nord_bright)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-W-Z&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!---
 - 💞️ I’m looking to collaborate on ...
