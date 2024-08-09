@@ -1,21 +1,10 @@
 # Self Introduction
-- Hi, I’m **C-W-Z**
-- I'm majoring CSIE in NTU
-- Here is my personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
-## Interests
-- programming
-- drawing
-- reading novels
-- playing & making games
-## Programming Languages
-- `C/C++`
-- `C#`
-- `Python`
-- `HTML5/CSS/JavaScript`
-- `TypeScript`
+- student in CSIE of NTU
+- personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
 
-## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-W-Z&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-W-Z&theme=nord_bright)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-W-Z&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
