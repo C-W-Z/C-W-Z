@@ -6,6 +6,9 @@ A CS grad student, I’m fascinated by the inner workings of games.
 <br/>
 For me, modding is the ultimate way to explore that passion.
 <br/>
+
+https://linktr.ee/icya.io
+
 Personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W71W9C7K)
